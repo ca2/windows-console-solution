@@ -1,0 +1,6 @@
+[submodule "operating-system"]
+	path = operating-system
+	url = ../windows-operating-system
+[submodule "source"]
+	path = source
+	url = ../console-source
