@@ -1,0 +1,8 @@
+./source/app/app/application.txt
+./source/app/build1/application.txt
+./source/app/integration/application.txt
+./source/app/just_message_box/application.txt
+./source/app/message_box/application.txt
+./source/app/net/application.txt
+./source/app/shader/application.txt
+./source/app/start_netnode/application.txt
